@@ -1,0 +1,10 @@
+New features and corrections :
+
+Version 040:
+
+- Save and loading of script variable and treasure state.
+- Restart game do not backup the previous state of the game.
+- Most of the typo problem are fixed (not the pagination problem)
+- Falcon excessive speed is fixed
+- the Falcon FX problem can not be fixed cause Falcon can not read sample with a rate of 6.5KHZ (STE can). 
+- A new secret cave the Volcano Trampolino
