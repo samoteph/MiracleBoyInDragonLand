@@ -8,7 +8,7 @@ You can play the game with an Atari ST emulator like Steem SSE, Hatari or SainT.
 
 It is compatible with all Atari ST families (ST, STFm, STE, TT, Falcon) with at least 1 MB of memory.
 
-Download : https://github.com/samoteph/MiracleBoyInDragonLand/releases/tag/0.40
+Download : https://github.com/samoteph/MiracleBoyInDragonLand/releases/tag/0.41
 
 Enjoy !
 
