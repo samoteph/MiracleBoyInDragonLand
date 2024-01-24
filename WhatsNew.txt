@@ -1,5 +1,10 @@
 New features and corrections :
 
+Version 041:
+
+- Remove Falcon init
+- Glitch with queen's messenger. 
+
 Version 040:
 
 - Save and loading of script variable and treasure state.
