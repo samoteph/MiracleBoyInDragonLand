@@ -10,6 +10,8 @@ It is compatible with all Atari ST families (ST, STFm, STE, TT, Falcon) with at 
 
 Download : https://github.com/samoteph/MiracleBoyInDragonLand/releases/tag/0.41
 
+If you are interested in the development of the game, you can join me on the Facebook group https://www.facebook.com/groups/383252337204206
+
 Enjoy !
 
 Samuel Blanchard
