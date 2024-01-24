@@ -1,6 +1,8 @@
 Hello everyone ! 
 
-I am very proud to release this demo version of level 1 of Miracle Boy in Dragon Land to the public.
+I am very proud to release this demo version of level 1 of Miracle Boy in Dragon Land (aka MBiDL) to the public.
+
+MBiDL is a Japanese-style RPG game and a sequel to Wonder Boy. it's made with love in 68000 assembler.
 
 You can play the game with an Atari ST emulator like Steem SSE, Hatari or SainT.
 
