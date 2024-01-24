@@ -6,6 +6,6 @@ It's compatible with all family of Atari ST (ST,STFm,STE,TT,Falcon) with at leas
 
 Enjoy !
 
-![image](https://github.com/samoteph/MiracleBoyInDragonLand/assets/19349553/7fb764a9-6f34-4da8-b44c-6a6e4928580a)
+![TomTomTown](https://github.com/samoteph/MiracleBoyInDragonLand/assets/19349553/0a410cb6-cec4-44f8-b258-66d14bd9c622)
 
 Download : https://github.com/samoteph/MiracleBoyInDragonLand/releases/tag/0.40
